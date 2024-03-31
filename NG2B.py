@@ -33,6 +33,20 @@ def calculate_fuel_required(boiler_production_rate_ton, enthalpy_steam, enthalpy
 
 st.title("Boiler N.G Fuel Calculator")
 st.caption("By Eng. Alias @ aliasalias85@gmail.com")
+hide_menu_style = """
+        <style>
+        #MainMenu {visibility: hidden;}
+        </style>
+        """
+st.markdown(hide_menu_style, unsafe_allow_html=True)
+
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 # Get User Input with container
 with st.container():
