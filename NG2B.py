@@ -32,8 +32,8 @@ def calculate_fuel_required(boiler_production_rate_ton, enthalpy_steam, enthalpy
     return None  # Handle division by zero
 
 st.title("Boiler N.G Fuel Calculator")
-st.caption("By Eng. Alias:")
-st.divider()
+st.caption("By Eng. Alias:-----------------------------------------------")
+
 # Get User Input with container
 with st.container():
   boiler_efficiency = st.number_input("Boiler Efficiency", min_value=0.0, max_value=1.0,value=0.9)
