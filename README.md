@@ -22,4 +22,4 @@ This Streamlit application calculates the fuel required for a Natural Gas (N.G.)
 
 **Author:**
 
-Eng. Ali Jabbar Mezeal ([http://utility.src.net](http://utility.src.net))
+Eng. Ali Jabbar Mezeal 
