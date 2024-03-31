@@ -1,6 +1,6 @@
 **Boiler N.G Fuel Calculator**
 
-This Streamlit application calculates the fuel required for a Natural Gas (N.G.) boiler to produce steam at a specified rate.
+This application calculates the fuel required for a Natural Gas (N.G.) boiler to produce steam at a specified rate.
 
 **Features:**
 
@@ -22,4 +22,4 @@ This Streamlit application calculates the fuel required for a Natural Gas (N.G.)
 
 **Author:**
 
-Eng. Ali Jabbar Mezeal 
+by : Alias
